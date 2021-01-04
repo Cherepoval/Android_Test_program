@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test Alex Counter</string>
+    <string name="Hello">Привет Рома !</string>
+    <string name="Happynewyear">С новым годом!</string>
+    <string name="newyear">С новым годом!</string>
+</resources>
